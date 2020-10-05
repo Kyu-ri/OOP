@@ -1,0 +1,10 @@
+tree 
+ n.나무
+smelly 
+ adj.냄새가 있는
+undreamt 
+ adj.꿈에도 생각하지 않은
+valediction 
+ n.작별
+indecisively 
+ ad.엉거주춤하게

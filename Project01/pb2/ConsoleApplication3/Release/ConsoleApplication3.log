@@ -1,0 +1,14 @@
+﻿  SIMS.cpp
+SIMS.cpp(40): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+SIMS.cpp(57): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+SIMS.cpp(74): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+SIMS.cpp(91): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+SIMS.cpp(108): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Student.cpp
+  StudentDB.cpp
+  코드를 생성하고 있습니다.
+  506 of 632 functions (80.1%) were compiled, the rest were copied from previous compilation.
+    272 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  ConsoleApplication3.vcxproj -> C:\Users\귤★\Desktop\ConsoleApplication3\Release\pb2.exe

@@ -1,0 +1,9 @@
+﻿  main.cpp
+  IntStack.cpp
+  inf_int.cpp
+c:\users\귤★\desktop\project#2 - 20155445 김규리\pb2\problem2\inf_int.cpp(201): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\귤★\desktop\project#2 - 20155445 김규리\pb2\problem2\inf_int.cpp(230): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  CharStack.cpp
+  Calculator.cpp
+  코드를 생성하고 있습니다...
+  Problem2.vcxproj -> C:\Users\귤★\Desktop\Project#2 - 20155445 김규리\Pb2\Debug\Problem2.exe

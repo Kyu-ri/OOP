@@ -1,0 +1,29 @@
+﻿  virtualLego.cpp
+c:\users\whddk\desktop\16학년도 2학기 과제\oop\20150594_이종아_proj3\oop16_proj3\d3dUtility.h(23): warning C4005: 'INFINITY': 매크로 재정의
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h(78): note: 'INFINITY'의 이전 정의를 참조하십시오.
+virtualLego.cpp(270): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+virtualLego.cpp(279): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+virtualLego.cpp(280): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+virtualLego.cpp(315): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+virtualLego.cpp(325): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+virtualLego.cpp(340): warning C4244: '인수': 'const double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+virtualLego.cpp(511): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+virtualLego.cpp(512): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+virtualLego.cpp(549): warning C4305: 'return': 'double'에서 'float'(으)로 잘립니다.
+virtualLego.cpp(770): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: 'strcpy' 선언을 참조하십시오.
+virtualLego.cpp(840): warning C4244: '=': 'double'에서 'time_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+virtualLego.cpp(835): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdlib.h(1316): note: 'itoa' 선언을 참조하십시오.
+virtualLego.cpp(836): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdlib.h(1316): note: 'itoa' 선언을 참조하십시오.
+virtualLego.cpp(842): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdlib.h(1316): note: 'itoa' 선언을 참조하십시오.
+virtualLego.cpp(843): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdlib.h(1316): note: 'itoa' 선언을 참조하십시오.
+virtualLego.cpp(854): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdlib.h(1316): note: 'itoa' 선언을 참조하십시오.
+virtualLego.cpp(1130): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+virtualLego.cpp(1131): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  VirtualLego.vcxproj -> C:\Users\whddk\Desktop\16학년도 2학기 과제\OOP\20150594_이종아_proj3\oop16_proj3\.\Debug\VirtualLego.exe
+  VirtualLego.vcxproj -> .\Debug\VirtualLego.pdb (Full PDB)
